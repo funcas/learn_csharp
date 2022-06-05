@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{1493D7BF-3E8A-4C71-8687-43151C399A9B}|Default">
+  <MonoDevelop.Ide.ItemProperties.demo PreferredExecutionTarget="/Users/shane/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="demo/Services/Enging.cs">
+    <Files>
+      <File FileName="demo/Controllers/WeatherForecastController.cs" Line="8" Column="29" />
+      <File FileName="demo/Services/AppHostedService.cs" Line="19" Column="48" />
+      <File FileName="demo/Program.cs" Line="23" Column="4" />
+      <File FileName="demo/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="demo/appsettings.json" Line="11" Column="45" />
+      <File FileName="demo/Services/DemoContext.cs" Line="16" Column="8" />
+      <File FileName="demo/Models/Blog.cs" Line="17" Column="61" />
+      <File FileName="demo/Controllers/BlogController.cs" Line="41" Column="1" />
+      <File FileName="demo/Services/Enging.cs" Line="22" Column="27" />
+      <File FileName="demo/Repository/EntityBase.cs" Line="1" Column="1" />
+      <File FileName="demo/Filters/Transactional.cs" Line="8" Column="41" />
+      <File FileName="demo/AutofacModuleRegister.cs" Line="19" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="demo" expanded="True">
+            <Node name="demo" expanded="True">
+              <Node name="Filters" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
